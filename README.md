@@ -1,0 +1,1 @@
+# SoccerNetReID2022-MIG
