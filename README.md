@@ -1,3 +1,3 @@
 # SoccerNetReID2022-MIG
 
-Coming 
+Coming soon ...
