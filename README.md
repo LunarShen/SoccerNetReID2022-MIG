@@ -1,3 +1,9 @@
 # SoccerNetReID2022-MIG
 
-Coming soon ...
+## Training
+
+We utilize One GTX-3090 GPU for training.
+
+```shell
+sh run.sh
+```
